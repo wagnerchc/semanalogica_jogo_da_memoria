@@ -49,3 +49,11 @@ body {
 small { 
     font-size: 1.5rem;
 }
+
+.open {
+    background-color: white;
+}
+
+.pairform {
+    background-color: rgb(206, 137, 247);
+}
